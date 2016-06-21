@@ -2,11 +2,13 @@
 Resources for coding practice
 
 ## Practice Problems
-* [Project Euler](https://projecteuler.net/)
+
 * [Hacker Rank](https://www.hackerrank.com/)
-* [Code Wars](http://www.codewars.com/dashboard)
+* [Code Wars](http://www.codewars.com/r/TCkdyQ)
 * [CodeEval](https://www.codeeval.com/)
 * [Noding Bat](http://nodingbat.com/)
+* [Exercism](http://exercism.io/)
+* [Project Euler](https://projecteuler.net/)
 
 ## Coding Games
 
